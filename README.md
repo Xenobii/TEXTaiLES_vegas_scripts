@@ -25,4 +25,6 @@ File|Description
 :---|:---
 add_text_5s|Creates a 5 second text event
 add_logo|Adds the TEXTaiLES logo to the bottom right for the whole project
+smooth-transition|Converts all Pan/Crop keyframe transitions to smooth
+stitch-events|Stitches all video events in the selected tracks together
 ---
